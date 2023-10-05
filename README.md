@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning Web Tech 
+- 🌱 I’m currently learning Web Tech | Flutter
 - 📫 How to reach me: vikashkaushik910@gmail.com
 
 
