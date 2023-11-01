@@ -1,7 +1,7 @@
 # Hi, I'm Vikash Kaushik, a Flutter and MERN-Stack Developer 🚀
 
 ## About Me
-
+ 
 
 
 - 🔭 I’m currently working on [Flutter](https://github.com/theneoalpha/bear_recogniser/) and [MERN-Stack Applications](https://github.com/theneoalpha/carbon_footprint)
@@ -36,7 +36,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" alt="Node.js" width="120" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png" alt="MongoDB" width="120" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="120" height="60"/>
-  <!-- Add images of other technologies you're familiar with -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png?20160811101906" alt="Git" width="120" height="60"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/768px-Dart_programming_language_logo.svg.png" alt="Dart" width="120" height="60"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" alt="BootStrap" width="60" height="60"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind CSS" width="120" height="60"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML 5" width="60" height="80"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="60" height="60"/>
+   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/364px-Java-Logo.svg.png?20061221200047" alt="Java" width="40" height="60"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="60" height="80"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="60" height="80"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="Tensorflow" width="60" height="80"/>
 </p>
 
 ### GitHub Stats
