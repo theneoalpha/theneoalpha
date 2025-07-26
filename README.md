@@ -1,4 +1,4 @@
-# Hi, I'm Vikash Kaushik, a Flutter and MERN-Stack Developer 🚀
+# Hi, I'm Vikash Kaushik, a Frontend Developer 🚀
 
 ## About Me
  
